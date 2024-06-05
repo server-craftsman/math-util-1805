@@ -1,4 +1,4 @@
-[![Math Utility Project (CI inclued)](https://github.com/server-craftsman/math-util-1805/actions/workflows/maven.yml/badge.svg)](https://github.com/server-craftsman/math-util-1805/actions/workflows/maven.yml)
+[![Math Utility Project (CI included)](https://github.com/server-craftsman/math-util-1805/actions/workflows/maven.yml/badge.svg)](https://github.com/server-craftsman/math-util-1805/actions/workflows/maven.yml)
 
 # Welcome to Math Utility Repository
 
