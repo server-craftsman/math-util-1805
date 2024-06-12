@@ -53,12 +53,21 @@ public class Main {
 //        //HY VỌNG SẼ THẤY NGOẠI LỆ XUẤT HIỆN
 //        
 //    }
+
     
     //this method is written in local
-    public static void SayHiFromLocal() {
-        
+    public static void SayHiFromServer() {
+        System.out.println("Hello world!");
     }
     
+
+
+    //this method is written derectly in server to simulate
+    //the work of another team memeber, he uploads code before me
+    public static void SayHiFromLocal() {
+        System.out.println("Helo world again!");
+    }
+
     public static void main(String[] args) {
         //CÁCH KIỂM THỬ 2 - GIỐNG CÁCH 1
         //Test case #1: Check if 0! returns 1
